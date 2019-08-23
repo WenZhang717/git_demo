@@ -14,6 +14,3 @@ feel happy
 
 add oil
 
-
-stash event
-
