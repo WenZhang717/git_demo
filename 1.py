@@ -13,5 +13,3 @@ lovely boss
 feel happy
 
 add oil
-
-stash event
